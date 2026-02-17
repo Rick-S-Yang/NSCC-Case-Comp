@@ -27,19 +27,44 @@
 
 
 ## Deck Preview
-> Key slides exported from the final presentation to highlight problem diagnosis, recommendations, and implementation logic.
+> Full slide preview from the final presentation, including problem diagnosis, recommendations, and projected impact.
 
-- **Executive Summary**  
-  High-level overview of Flair Airlines’ positioning, key challenges (reputation, messaging, Gen Z disconnect), and integrated solution framework.  
-  ![Executive Summary](images/slide-exec-summary.png)
+### Problem Diagnosis
+- **Reputational Challenges**
+  ![Problem 1](Problem%201.png)
 
-- **Core Recommendation: Social Media Rebranding & Transparency**  
-  Introduction of themed visual identity, dedicated reels, pinned posts, and a real-time performance dashboard to rebuild credibility and engagement.  
-  ![Recommendation](images/slide-recommendation.png)
+- **Messaging Weakness**
+  ![Problem 2](Problem%202.png)
 
-- **Implementation & Financial Impact**  
-  Campaign rollout, budget allocation, KPI forecasts, and ROI rationale supporting feasibility and measurable outcomes by 2026.  
-  ![Implementation](images/slide-implementation.png)
+- **Disconnect with Target Segment**
+  ![Problem 3](Problem%203.png)
+
+---
+
+### Recommendations
+- **Recommendation 1: Social Media Rebranding**
+  ![Recommendation 1](Recommendation%201.png)
+
+- **Recommendation 2: Website Transparency**
+  ![Recommendation 2](Recommendation%202.png)
+
+- **Recommendation 3: Segment-Specific Campaigns**
+  ![Recommendation 3](Recommendation%203.png)
+
+---
+
+### Implementation & Financial Impact
+- **KPI & Impact Projection**
+  ![Projection 1](Projection%201.png)
+
+  ![Projection 2](Projection%202.png)
+
+  ![Projection 3](Projection%203.png)
+
+  ![Projection 4](Projection%204.png)
+
+  ![Projection 5](Projection%205.png)
+
 ## Repository Structure
 - `NSCC Case Competition.pptx` — final deck
 - `images/` — preview images exported from slides (optional)
