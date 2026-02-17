@@ -2,7 +2,7 @@
 
 **Deliverable:** Final presentation deck (PPTX)  
 **Competition:** National Strategy Consulting Competition
-**Tools:** PowerPoint, Excel (optional), Research (optional)
+**Tools:** PowerPoint, Excel
 
 📌 **Download slides:**  
 - [NSCC Case Competition.pptx](./NSCC%20Case%20Competition.pptx)
@@ -67,12 +67,8 @@
 
 ## Repository Structure
 - `NSCC Case Competition.pptx` — final deck
-- `images/` — preview images exported from slides (optional)
-- `data/` — any supporting tables / assumptions (optional)
+- `images/` — preview images exported from slides
 
 ## Notes
-- [Add any confidentiality note if needed.]
-- [Add citations for public data sources if you used any.]
+- This project was cpmpleted as a group. I was mainly responsble for social media enhancement sstrategy and financial projection for the whole marketing initiative.
 
-## About
-This repository stores my case competition presentation and a short summary for portfolio purposes.
