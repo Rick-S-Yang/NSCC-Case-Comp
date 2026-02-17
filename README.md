@@ -24,10 +24,7 @@
 
 - **Transparency and engagement can convert performance into credibility:**  
   By making reliability metrics visible (live performance dashboard), rebranding social media with consistent visual identity, and launching localized, experience-driven campaigns, Flair can rebuild trust and improve brand affinity without sacrificing its ULCC cost advantage.
-
-
-## Deck Preview
-> Full slide preview from the final presentation.
+  
 
 ### Problem Diagnosis
 - **Reputational Challenges**
