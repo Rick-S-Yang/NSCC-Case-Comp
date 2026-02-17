@@ -27,43 +27,43 @@
 
 
 ## Deck Preview
-> Full slide preview from the final presentation, including problem diagnosis, recommendations, and projected impact.
+> Full slide preview from the final presentation.
 
 ### Problem Diagnosis
 - **Reputational Challenges**
-  ![Problem 1](Problem%201.png)
+  ![Problem 1](images/Problem%201.png)
 
 - **Messaging Weakness**
-  ![Problem 2](Problem%202.png)
+  ![Problem 2](images/Problem%202.png)
 
 - **Disconnect with Target Segment**
-  ![Problem 3](Problem%203.png)
+  ![Problem 3](images/Problem%203.png)
 
 ---
 
 ### Recommendations
-- **Recommendation 1: Social Media Rebranding**
-  ![Recommendation 1](Recommendation%201.png)
+- **Recommendation 1: Social Media Enhancement**
+  ![Recommendation 1](images/Recommendation%201.png)
 
-- **Recommendation 2: Website Transparency**
-  ![Recommendation 2](Recommendation%202.png)
+- **Recommendation 2: Website Modification**
+  ![Recommendation 2](images/Recommendation%202.png)
 
 - **Recommendation 3: Segment-Specific Campaigns**
-  ![Recommendation 3](Recommendation%203.png)
+  ![Recommendation 3](images/Recommendation%203.png)
 
 ---
 
 ### Implementation & Financial Impact
-- **KPI & Impact Projection**
-  ![Projection 1](Projection%201.png)
+![Projection 1](images/Projection%201.png)
 
-  ![Projection 2](Projection%202.png)
+![Projection 2](images/Projection%202.png)
 
-  ![Projection 3](Projection%203.png)
+![Projection 3](images/Projection%203.png)
 
-  ![Projection 4](Projection%204.png)
+![Projection 4](images/Projection%204.png)
 
-  ![Projection 5](Projection%205.png)
+![Projection 5](images/Projection%205.png)
+
 
 ## Repository Structure
 - `NSCC Case Competition.pptx` — final deck
